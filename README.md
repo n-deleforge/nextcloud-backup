@@ -17,7 +17,7 @@
 
 # Quick start
 
-- Download the `backup.php`file.
+- Download the `backup.php` file.
 - Edit the settings according your Nextcloud instance and your needs (see the configuration part below).
 - Launch the script, either manually, either by automatisation.
 
